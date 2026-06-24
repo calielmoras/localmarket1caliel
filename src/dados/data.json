@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "desc": "Tama Starclassic Maple",
+    "valor": 12999.90,
+    "imagem": "../../public/tama-starclassic-maple.jpg"
+  },
+  {
+    "id": 2,
+    "desc": "Pearl Masters Maple Complete",
+    "valor": 11499.90,
+    "imagem": "../../public/pearl-masters-maple-complete.jpg"
+  },
+  {
+    "id": 3,
+    "desc": "Yamaha Recording Custom",
+    "valor": 15999.90,
+    "imagem": "../../public/yamaha-recording-custom.jpg"
+  },
+  {
+    "id": 4,
+    "desc": "Ludwig Classic Maple",
+    "valor": 13999.90,
+    "imagem": "../../public/ludwig-classic-maple.jpg"
+  },
+  {
+    "id": 5,
+    "desc": "Gretsch Renown",
+    "valor": 9999.90,
+    "imagem": "../../public/gretsch-renown.jpg"
+  },
+  {
+    "id": 6,
+    "desc": "Pearl Export",
+    "valor": 5499.90,
+    "imagem": "../../public/pearl-export.png"
+  },
+  {
+    "id": 7,
+    "desc": "Tama Imperialstar",
+    "valor": 4999.90,
+    "imagem": "../../public/tama-imperialstar.jpg"
+  },
+  {
+    "id": 8,
+    "desc": "Mapex Armory",
+    "valor": 7499.90,
+    "imagem": "../../public/mapex-armory.jpg"
+  }
+]
